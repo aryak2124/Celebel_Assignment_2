@@ -34,9 +34,14 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `Brief Testing Guidance`
-Adding Tasks: Enter text into the input field and click "Add Task". The task should appear in the list.
-Removing Tasks: Click "Remove" next to a task to delete it from the list.
-Marking Tasks as Completed/Incomplete: Click the button to mark a task as complete/incomplete. Completed tasks should have a line-through.
-Filtering Tasks: Use the filter buttons (All, Active, Completed) to view tasks based on their completion status.
-Persistence: Refresh the page and ensure tasks are persisted correctly using localStorage.
-This should provide a solid foundation for your React To-Do List application with validation, dynamic task display, optional sorting, filtering, and localStorage integration.
+Adding Tasks: Enter text into the input field and click "Add Task". The task should appear in the list.\
+
+Removing Tasks: Click "Remove" next to a task to delete it from the list.\
+
+Marking Tasks as Completed/Incomplete: Click the button to mark a task as complete/incomplete. Completed tasks should have a line-through.\
+
+Filtering Tasks: Use the filter buttons (All, Active, Completed) to view tasks based on their completion status.\
+
+Persistence: Refresh the page and ensure tasks are persisted correctly using localStorage.\
+
+This should provide a solid foundation for your React To-Do List application with validation, dynamic task display, optional sorting, filtering, and localStorage integration.\
